@@ -27,10 +27,12 @@ I mainly work with **Python, Java, C, and React**, and I'm currently expanding m
 
 ## 🧠 Currently Learning
 
+- 100 Days of Code: The Complete Python Pro Bootcamp.
+- Epic React by Kent C. Dodds.
+- Java at university.
 
 ## 📫 Let's Connect
 
 Feel free to reach out or check out my work:
 
 - LinkedIn:
-- GitHub: 
