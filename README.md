@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Santtiago!
+## 👋 Hi there, I'm Santiago!
 
 I'm a passionate Software Engineering student focused on building practical and creative solutions through code. I enjoy learning new technologies and working on both personal and academic projects.
 
