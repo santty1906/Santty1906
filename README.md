@@ -35,4 +35,7 @@ I mainly work with **Python, Java, C, and React**, and I'm currently expanding m
 
 Feel free to reach out or check out my work:
 
-- LinkedIn:
+-## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/santiago-lopez-022870283/)
+
