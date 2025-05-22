@@ -10,6 +10,8 @@ I'm a passionate Software Engineering student focused on building practical and 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 I mainly work with **Python, Java, C, and React**, and I'm currently expanding my knowledge in backend development and automation.
+I also have experience in web development using **HTML, CSS, and JavaScript**.
+
 
 ## 📌 Highlighted Projects
 
