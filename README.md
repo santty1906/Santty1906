@@ -15,17 +15,11 @@ I also have experience in web development using **HTML, CSS, and JavaScript**.
 
 ## 📌 Highlighted Projects
 
-- 🎮 **[Pygame Mini-Game](https://github.com/yourusername/pygame-mini-game)**  
-  A fun arcade-style game created using Python and Pygame.
+- 🎮 **[Tic Tac Toe - React Game](https://github.com/santty1906/tic-tac-toe-react)**  
+  A game created using React, JavaScript and CSS
 
-- 📊 **[Speeding Ticket System in Java](https://github.com/yourusername/java-speeding-ticket)**  
+- 📊 **[Speeding Ticket System in Java](https://github.com/santty1906/speeding-ticket-system)**  
   A console application that determines speeding violations based on road types.
-
-- 🧠 **[University Course Projects](https://github.com/yourusername/uni-projects)**  
-  A collection of programming assignments built with C and Java during my degree.
-
-- 📚 **[Academic Manager (React)](https://github.com/yourusername/react-academic-manager)**  
-  A frontend project for managing academic data using React.
 
 ## 🧠 Currently Learning
 
