@@ -15,7 +15,7 @@ I also have hands-on experience with **HTML, CSS, and JavaScript** for web devel
 
 ## 📌 Highlighted Projects
 
-- 📊 **[Finanzas PRO+]([https://github.com/santty1906/speeding-ticket-system](https://github.com/santty1906/finanzas-pro-plus))**  
+- 📊 **[Finanzas PRO+](https://github.com/santty1906/finanzas-pro-plus)**  
   A Python app to track, analyze, and visualize financial transactions with a Tkinter GUI and Matplotlib charts.
   
 - 🎮 **[Java Chees Game](https://github.com/santty1906/Java-chess-game)**  
