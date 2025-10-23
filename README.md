@@ -33,4 +33,5 @@ I also have experience in web development using **HTML, CSS, and JavaScript**.
 Feel free to reach out or check out my work:
 
 - [LinkedIn](https://www.linkedin.com/in/santiago-lopez-022870283/)
+- [LeetCode](https://leetcode.com/u/Santiagodlo/)
 
