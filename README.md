@@ -9,17 +9,17 @@ I'm a passionate Software Engineering student focused on building practical and 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-I mainly work with **Python, Java, C, and React**, and I'm currently expanding my knowledge in backend development and automation.
-I also have experience in web development using **HTML, CSS, and JavaScript**.
+I mainly work with **Python, Java, C, and React**, and I'm currently exploring **backend development, automation, and AI/Machine Learning.**
+I also have hands-on experience with **HTML, CSS, and JavaScript** for web development.
 
 
 ## 📌 Highlighted Projects
 
+- 📊 **[Finanzas PRO+]([https://github.com/santty1906/speeding-ticket-system](https://github.com/santty1906/finanzas-pro-plus))**  
+  A Python app to track, analyze, and visualize financial transactions with a Tkinter GUI and Matplotlib charts.
+  
 - 🎮 **[Java Chees Game](https://github.com/santty1906/Java-chess-game)**  
   A Java-based chess game with full rule support, visual interface, and a simple AI opponent.
-
-- 📊 **[Speeding Ticket System in Java](https://github.com/santty1906/speeding-ticket-system)**  
-  A console application that determines speeding violations based on road types.
 
 ## 🧠 Currently Learning
 
