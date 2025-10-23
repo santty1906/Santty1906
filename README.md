@@ -15,14 +15,15 @@ I also have experience in web development using **HTML, CSS, and JavaScript**.
 
 ## 📌 Highlighted Projects
 
-- 🎮 **[Tic Tac Toe - React Game](https://github.com/santty1906/tic-tac-toe-react)**  
-  A game created using React, JavaScript and CSS
+- 🎮 **[Java Chees Game](https://github.com/santty1906/Java-chess-game)**  
+  A Java-based chess game with full rule support, visual interface, and a simple AI opponent.
 
 - 📊 **[Speeding Ticket System in Java](https://github.com/santty1906/speeding-ticket-system)**  
   A console application that determines speeding violations based on road types.
 
 ## 🧠 Currently Learning
 
+- Python, AI and Machine Learning: Samsung Innovations Campus
 - 100 Days of Code: The Complete Python Pro Bootcamp.
 - Epic React by Kent C. Dodds.
 - Java at university.
