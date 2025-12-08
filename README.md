@@ -32,6 +32,6 @@ I also have hands-on experience with **HTML, CSS, and JavaScript** for web devel
 
 Feel free to reach out or check out my work:
 
-- [LinkedIn](www.linkedin.com/in/santiago-lopez-software-engineer)
+- [LinkedIn](http://www.linkedin.com/in/santiago-lopez-software-engineer)
 - [LeetCode](https://leetcode.com/u/Santiagodlo/)
 
