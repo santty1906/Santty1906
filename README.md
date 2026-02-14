@@ -17,9 +17,11 @@ I also have hands-on experience with **HTML, CSS, and JavaScript** for web devel
 
 ## 📌 Highlighted Projects
 
-- 👁️ **[VisionStock AI](https://github.com/santty1906/VisionStock-AI)**              A real-time AI-powered inventory automation system built in Python using YOLOv8, CLIP, FastAPI, and OpenCV. Detects objects via camera, registers inventory automatically, and supports incremental object learning.
+- 👁️ **[VisionStock AI](https://github.com/santty1906/VisionStock-AI)**
+  A real-time AI-powered inventory automation system built in Python using YOLOv8, CLIP, FastAPI, and OpenCV. Detects objects via camera, registers inventory automatically, and supports incremental object learning.
 
-- 📊 **[Finanzas PRO+](https://github.com/santty1906/finanzas-pro-plus)**            A Python app to track, analyze, and visualize financial transactions with a Tkinter GUI and Matplotlib charts.
+- 📊 **[Finanzas PRO+](https://github.com/santty1906/finanzas-pro-plus)**
+  A Python app to track, analyze, and visualize financial transactions with a Tkinter GUI and Matplotlib charts.
   
 - 🎮 **[Java Chees Game](https://github.com/santty1906/Java-chess-game)**  
   A Java-based chess game with full rule support, visual interface, and a simple AI opponent.
