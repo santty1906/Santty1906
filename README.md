@@ -8,12 +8,16 @@ I'm a passionate Software Engineering student focused on building practical and 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 I mainly work with **Python, Java, C, and React**, and I'm currently exploring **backend development, automation, and AI/Machine Learning.**
 I also have hands-on experience with **HTML, CSS, and JavaScript** for web development.
 
 
 ## 📌 Highlighted Projects
+
+- 👁️ **[VisionStock AI](https://github.com/santty1906/VisionStock-AI)**
+  A real-time AI-powered inventory automation system built in Python using YOLOv8, CLIP, FastAPI, and OpenCV. Detects objects via camera, registers inventory automatically, and supports incremental object learning.
 
 - 📊 **[Finanzas PRO+](https://github.com/santty1906/finanzas-pro-plus)**  
   A Python app to track, analyze, and visualize financial transactions with a Tkinter GUI and Matplotlib charts.
