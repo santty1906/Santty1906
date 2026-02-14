@@ -10,7 +10,7 @@ I'm a passionate Software Engineering student focused on building practical and 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-I mainly work with **Python, Java, C, SQL, and React**, and I'm currently exploring **backend development, automation, and AI/Machine Learning.**
+I mainly work with **Python, Java, C, ORACLE SQL, and React**, and I'm currently exploring **backend development, automation, and AI/Machine Learning.**
 I also have hands-on experience with **HTML, CSS, and JavaScript** for web development.
 
 
