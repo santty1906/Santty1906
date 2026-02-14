@@ -23,7 +23,7 @@ I also have hands-on experience with **HTML, CSS, and JavaScript** for web devel
 - 📊 **[Finanzas PRO+](https://github.com/santty1906/finanzas-pro-plus)**
   A Python app to track, analyze, and visualize financial transactions with a Tkinter GUI and Matplotlib charts.
   
-- 🎮 **[Java Chees Game](https://github.com/santty1906/Java-chess-game)**  
+- 🎮 **[Java Chees Game](https://github.com/santty1906/Java-chess-game)**
   A Java-based chess game with full rule support, visual interface, and a simple AI opponent.
 
 ## 🧠 Currently Learning
