@@ -17,6 +17,9 @@ I also have hands-on experience with **HTML, CSS, and JavaScript** for web devel
 
 ## 📌 Highlighted Projects
 
+- 🏦 **[ LANDA Bank – AI-Enhanced Mobile Banking System](https://github.com/santty1906/LandaProject)**
+  Real-time AI-powered banking system with biometric authentication, secure login, and API-based account management.  
+
 - 👁️ **[VisionStock AI](https://github.com/santty1906/VisionStock-AI)**
   A real-time AI-powered inventory automation system built in Python using YOLOv8, CLIP, FastAPI, and OpenCV. Detects objects via camera, registers inventory automatically, and supports incremental object learning.
 
